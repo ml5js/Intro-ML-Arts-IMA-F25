@@ -72,7 +72,7 @@
 - [BodyPose - Drawing with Nose](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv) by Jack Du
 - [BodyPose - Trailing Effect](https://editor.p5js.org/jackbdu/sketches/eQTjLNK35) by Jack Du
 - [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/26sLU0Ub-) by Jack Du
-- [Additional examples](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) from Yining Shi (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._)
+- [Additional examples](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) from Yining Shi (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/ml5.js-Resources#ml5js-10-resources) for more information._)
 
 ### Technical Blog Posts
 
@@ -85,7 +85,7 @@
 
 ### Video Tutorials
 
-_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
+_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
 
 - [ml5.js Pose Estimation with PoseNet - video tutorial](https://youtu.be/OIo-DIOkNVg?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman
 - [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1197s) by Daniel Shiffman
@@ -99,4 +99,4 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 4. Read [Open Sourcing the Origin Stories: The ml5.js Model and Data Provenance Project](https://github.com/ellennickles/ml5js-model-and-data-provenance-project) by Ellen Nickles and reflect on the the following questions:
    - What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography?
    - How does understanding the provenance of the model and its data inform your creative process?
-5. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [Assignment 3 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+5. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [Assignment 3 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.

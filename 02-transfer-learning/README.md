@@ -53,13 +53,13 @@
 
 ## Supplemental Materials
 
-- [Local Development and Hosting Resources Wiki Page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Local-Development-and-Hosting-Resources) (originally by Jack B. Du.)
+- [Local Development and Hosting Resources Wiki Page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Local-Development-and-Hosting-Resources) (originally by Jack B. Du.)
 - [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown.
 - [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat.
 
 ### Video Tutorials
 
-_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
+_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/ml5.js-Resources#ml5js-10-resources) for more information._
 
 #### Teachable Machine
 
@@ -87,4 +87,4 @@ Reflect on the relationship between labels and images in a machine learning imag
 
 2. Train your own image classifier using Teachable Machine and apply the model to an interactive p5.js sketch. Feel free to try sound instead of or in addition to images.
 
-3. Document your reading reflections and your coding exercise in a blog post and add a link to the post and your p5 sketch on the [Assignment 2 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may include both in one post or write two separate posts if you prefer.
+3. Document your reading reflections and your coding exercise in a blog post and add a link to the post and your p5 sketch on the [Assignment 2 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may include both in one post or write two separate posts if you prefer.

@@ -26,7 +26,7 @@
 
 ### 6: [Training a Neural Network 2](05-neural-networks) (10/10)
 
-### 7: [ml5.js project presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project-2) (10/17)
+### 7: [ml5.js project presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/ml5.js-Project-2) (10/17)
 
 ### 8: [Introduction to Transformers.js](06-transformers-js) (10/24)
 
@@ -173,5 +173,5 @@ Teachers and students work together to create a supportive learning environment.
 
 ## Acknowledgment
 
-This syllabus is adapted from the work of previous instructors—[Daniel Shiffman (Fall 2023)](https://github.com/ml5js/Intro-ML-Arts-IMA-F24) and [Jack Du (Summer 2024)](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/)—who have generously shared their materials. Thank you also to Gottfried Haider, his course materials for Machine Learning for Artists and Designers also served as a foundation for the materials presented here.
+This syllabus is adapted from the work of previous instructors—[Daniel Shiffman (Fall 2023)](https://github.com/ml5js/Intro-ML-Arts-IMA-F25) and [Jack Du (Summer 2024)](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/)—who have generously shared their materials. Thank you also to Gottfried Haider, his course materials for Machine Learning for Artists and Designers also served as a foundation for the materials presented here.
 
