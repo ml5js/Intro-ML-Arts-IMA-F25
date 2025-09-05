@@ -1,6 +1,6 @@
 # Introduction
 
-- [Introduction Slides](https://docs.google.com/presentation/d/1SmQ__RbL81uQZLVJvSLe8VBZSFhi5Pzm27JhzMnd55w/edit?usp=sharing)
+- [Introduction Slides](https://docs.google.com/presentation/d/1z2dcrMo8K_-bUC4bgqTALePen5IUJyvSF03meJlPvs4/edit?usp=sharing)
 - [Example Sketches](https://editor.p5js.org/ima_ml/collections/TwoOZGAuw)
 
 ## Objectives
