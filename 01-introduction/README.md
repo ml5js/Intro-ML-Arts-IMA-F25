@@ -38,6 +38,7 @@
 - [Image Classification - Drag and Drop Image](https://editor.p5js.org/ima_ml/sketches/xlQCdIZGl)
 - [Image Classification - Video](https://editor.p5js.org/ima_ml/sketches/attFrN2bk)
 - [Image Classification - Video with Speech Output](https://editor.p5js.org/ima_ml/sketches/sjIgLgtig)
+- Class sketch: https://editor.p5js.org/yining/sketches/jcftisRzv
 
 ### p5.js review
 
