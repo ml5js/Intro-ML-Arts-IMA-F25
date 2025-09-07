@@ -66,7 +66,10 @@
 
 1. Create a blog (or a category on a blog) for the course. (You may use any means for publishing your assignments including, but not limited to, a GitHub markdown file, Notion page, medium post, etc.) [This wiki page has resources and information on creating your own blog](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Documentation-Blog-Resources). Additionally, there is some [information on privacy options and more at NYU's Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/).
 2. Read [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf) by Mimi Onuoha and Mother Cyborg (Diana Nucera).
-3. Explore [ImageNet](http://image-net.org/index), [ImageNet sample images](https://github.com/EliSchwartz/imagenet-sample-images/blob/master/gallery.md), [Kaggle ImageNet Mini 1000](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000). What surprises you about this data set? What questions do you have?
-4. Try playing [Emoji Scavenger Hunt](https://emojiscavengerhunt.withgoogle.com/).
-5. Using the [code examples above](#code-examples), try running image classification on a variety of images. What does the model recognize properly? What does it not recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc. You are welcome to use the provided examples as they are or modify the code to create interactive experience that reflects your creativity and curiosity!
-6. Document your thoughts on MobileNet and image classification in a blog post and add a link to the [Assignment 1 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-1).
+3. Creating a blog post documenting and reflecting on the following exercises from [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf).
+   - When you hear the words "Artificial Intelligence", what are the first four things that come to your mind? (p.11)
+   - Answer the questions from the "Everyday AI Activity" on pages 23-28 of the [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf).
+4. Using the [code examples above](#code-examples), try running image classification on a variety of images.
+   - What does the model recognize properly? What does it not recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
+   - You are welcome to use the provided examples as they are or modify the code to create interactive experience that reflects your creativity and curiosity!
+6. Document your thoughts on 3. and 4. in a blog post and add a link to the [Assignment 1 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-1).
