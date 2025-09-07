@@ -38,6 +38,9 @@
 - [Image Classification - Drag and Drop Image](https://editor.p5js.org/ima_ml/sketches/xlQCdIZGl)
 - [Image Classification - Video](https://editor.p5js.org/ima_ml/sketches/attFrN2bk)
 - [Image Classification - Video with Speech Output](https://editor.p5js.org/ima_ml/sketches/sjIgLgtig)
+- [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoScavengerHunt)
+- [Canvas Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas)
+- [Webcam Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video)
 - Class sketch: https://editor.p5js.org/yining/sketches/jcftisRzv
 
 ### p5.js review
