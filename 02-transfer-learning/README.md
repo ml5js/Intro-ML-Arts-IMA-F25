@@ -22,11 +22,11 @@
 
 ### Code Examples
 
-- [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/yining/sketches/3KNBMaiGP)
+- [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/yining/sketches/3KNBMaiGP) [video demo](https://www.loom.com/share/9020cdd8ff784c7c97e20cc5e01bdda6) (Use `classify` instead of classifyStart)
 - [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
 - [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
 - class sound: https://editor.p5js.org/yining/sketches/t_u_sXvzd
-- class image: https://editor.p5js.org/yining/sketches/85s4xc6Jl, [video demo](https://www.loom.com/share/42745719d09a4ce197b57f226d4a0ef8?sid=f30ba5ad-4be4-4b72-abfc-1c1a1f2a242a)
+- class image: https://editor.p5js.org/yining/sketches/85s4xc6Jl, [video demo](https://www.loom.com/share/42745719d09a4ce197b57f226d4a0ef8?sid=f30ba5ad-4be4-4b72-abfc-1c1a1f2a242a) (Use `classify` instead of classifyStart)
 
 ### Related Projects
 
