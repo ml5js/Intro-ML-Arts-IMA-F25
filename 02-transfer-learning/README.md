@@ -76,7 +76,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 
 ## Assignment 2
 
-1. Review [Excavating AI: The Politics of Images in Machine Learning Training Sets]([https://www.excavating.ai](https://archive.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets)) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
+1. Review [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://archive.biennial.com/journal/issue-9/excavating-ai-the-politics-of-images-in-machine-learning-training-sets)) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
 
 ![Ceci n’est pas une pipe.](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
 
