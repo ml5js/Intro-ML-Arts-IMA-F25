@@ -86,6 +86,6 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 
 Reflect on the relationship between labels and images in a machine learning image classification dataset. Who has the power to label images and how do those labels and machine learning models trained on them impact society?
 
-2. Train your own image classifier using Teachable Machine and apply the model to an interactive p5.js sketch. Feel free to try sound instead of or in addition to images.
+2. Train your own image or sound classifier using Teachable Machine and apply the model to an interactive p5.js sketch. [Code examples](#code-examples)
 
 3. Document your reading reflections and your coding exercise in a blog post and add a link to the post and your p5 sketch on the [Assignment 2 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may include both in one post or write two separate posts if you prefer.
