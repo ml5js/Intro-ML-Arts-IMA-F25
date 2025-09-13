@@ -25,6 +25,7 @@
 - [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/VvGXajA36)
 - [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
 - [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
+- class sound: https://editor.p5js.org/yining/sketches/t_u_sXvzd
 
 ### Related Projects
 
