@@ -66,6 +66,7 @@
 - [BodySegmentation - Mask Person with SelfieSegmentation](https://editor.p5js.org/ml5/sketches/h6TN8umP5)
 - [BodySegmentation - Mask Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/ruoyal-RC)
 - [BodySegmentation - Mask Select Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/R5rug0HKk)
+- class sketch: https://editor.p5js.org/yining/sketches/AFQlhfa0X
 
 #### Creative Applications
 
