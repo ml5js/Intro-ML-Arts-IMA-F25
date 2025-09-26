@@ -20,23 +20,23 @@
 
 ### 3: [Pre-trained models 1: Body](03-body-models) (9/19)
 
-### 4: [Pre-trained models 2: Face and Hand](04-face-and-hand-models) (9/26)
+### 4: [Hand Models](04-hand-models) (9/26)
 
-### 5: [Training a Neural Network 1](05-neural-networks) (10/3)
+### 5: [Face Models](05-face-modals) (10/3)
 
-### 6: [Training a Neural Network 2](05-neural-networks) (10/10)
+### 6: [Training a Neural Network 2](06-neural-networks) (10/10)
 
 ### 7: [ml5.js project presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/ml5.js-Project-2) (10/17)
 
-### 8: [Introduction to Transformers.js](06-transformers-js) (10/24)
+### 8: [Introduction to Transformers.js](07-transformers-js) (10/24)
 
-### 9: [Language Models](07-llms) (10/31)
+### 9: [Language Models](08-llms) (10/31)
 
-### 10: [Image Generation Models](08-image-models) (11/7)
+### 10: [Image Generation Models](09-image-models) (11/7)
 
-### 11: [Final Project Proposals](final) + [Fine-Tuning](09-fine-tuning) (11/14)
+### 11: [Final Project Proposals](final) + [Fine-Tuning](10-fine-tuning) (11/14)
 
-### 12: [Final Project Proposals](final) + [Fine-Tuning](09-fine-tuning) (11/21)
+### 12: [Final Project Proposals](final) + [Fine-Tuning](10-fine-tuning) (11/21)
 
 ### 13: [Final Project Play Testing](final) (12/05)
 
