@@ -42,6 +42,7 @@
 #### In class examples
 
 - [HandPose - pinch painting](https://editor.p5js.org/ima_ml/sketches/v1x7MSdLW)
+- Woooooow: https://editor.p5js.org/yining/sketches/uiG-8dfi8
 
 #### Core Functionalities
 
