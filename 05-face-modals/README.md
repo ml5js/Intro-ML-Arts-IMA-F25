@@ -35,7 +35,7 @@
 
 ### Code Examples
 
-#### In class examples
+#### Examples
 
 - [FaceMesh - image texture](https://editor.p5js.org/ima_ml/sketches/wVbQau7li)
 - [FaceMesh - pixel colors](https://editor.p5js.org/ima_ml/sketches/hyxD1BVVn)
