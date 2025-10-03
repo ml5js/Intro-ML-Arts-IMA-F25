@@ -64,6 +64,6 @@
 
 - [ml5.js FaceMesh Creative Sketch - video tutorial](https://www.youtube.com/watch?v=2h8VArJ3gnQ) with Patt Vira.
 
-## Assignment 4
+## Assignment 5
 1. Using FaceMesh, following the examples above and the [ml5.js documentation](https://docs.ml5js.org/), experiment with controlling elements of a p5.js sketch (color, geometry, sound, text, etc) with the output of the model. Try to create an interaction that is surprising or one that is inspired by the project you find.
 2. Document your research, your response, and your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-5). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
