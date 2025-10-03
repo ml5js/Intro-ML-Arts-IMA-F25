@@ -18,10 +18,8 @@
   - [MediaPipe FaceMesh Model Card](https://drive.google.com/file/d/1VFC_wIpw4O7xBOiTgUldl79d9LA-LsnA/)
 
 ### Related Projects
-
-- [Keyboard](https://experiments.withgoogle.com/keyboard) by Use All Five & Google Creative Lab.
-- [Fingerspelling](https://www.hellomonday.com/work/fingerspelling) by Hello Monday.
-- [Projection Mapping](https://www.instagram.com/p/CrLLNzGLcoA/) by Nahuel Gerth.
+- [Sampler](https://experiments.withgoogle.com/sampler) by Use All Five & Google Creative Lab.
+- [Eye Conductor](https://www.andreasrefsgaard.dk/projects/eye-conductor/) by Andreas Refsgaard.
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U) by Samarth Gulati and Praveen Sinha.
 - [DeepPrivacy2 - A Toolbox for Realistic Image Anonymization](https://github.com/hukkelas/deep_privacy2) by Hukkelås, Håkon and Lindseth, Frank.
 
