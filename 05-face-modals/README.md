@@ -36,6 +36,8 @@
 
 ### Code Examples
 
+- Class example: https://editor.p5js.org/yining/sketches/HHZ0bxKcA
+
 #### Examples
 
 - [FaceMesh - image texture](https://editor.p5js.org/ima_ml/sketches/wVbQau7li)
