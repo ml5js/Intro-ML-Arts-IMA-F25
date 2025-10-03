@@ -20,6 +20,7 @@
 ### Related Projects
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U) by Samarth Gulati and Praveen Sinha.
 - [DeepPrivacy2 - A Toolbox for Realistic Image Anonymization](https://github.com/hukkelas/deep_privacy2) by Hukkelås, Håkon and Lindseth, Frank.
+- [Pose Animator](https://github.com/yemount/pose-animator/) by Shan Huang.
 
 #### Music
 
