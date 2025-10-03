@@ -30,9 +30,6 @@
 - [Melody Painter with HandPose](https://www.instagram.com/p/C4WozrtsZ4r/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/jIvzImJMb) ]
 
 #### Playful
-
-- [Finger Talk](https://www.media.mit.edu/projects/finger-talk/overview/) by Future Sketches.
-- [Look At You](https://by.alan.ooo/Project+Portfolio/Code/Look+At+You!!!) by Alan Ren & Kyrie Yang.
 - [Bubbles](https://www.instagram.com/p/C6S5BHPCGu3/) by Nahuel Gerth.
 - [Finger Numerals](https://www.instagram.com/p/CsBMOvUL4CP/) by Nahuel Gerth.
 
