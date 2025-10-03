@@ -39,7 +39,7 @@
 - Class example: https://editor.p5js.org/yining/sketches/HHZ0bxKcA
 - https://editor.p5js.org/yining/sketches/FNjlzk9hw
 - https://editor.p5js.org/yining/sketches/p0ZwhM4tu
-- download the face image here: https://github.com/samarthgulati/ar-face-filters/blob/master/assets/jamini-mask.jpg
+- face mask: https://editor.p5js.org/yining/sketches/jGWhn2bv5 download the face image here: https://github.com/samarthgulati/ar-face-filters/blob/master/assets/jamini-mask.jpg
 
 #### Examples
 
