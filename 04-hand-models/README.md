@@ -22,12 +22,8 @@
 - [Keyboard](https://experiments.withgoogle.com/keyboard) by Use All Five & Google Creative Lab.
 - [Fingerspelling](https://www.hellomonday.com/work/fingerspelling) by Hello Monday.
 - [Projection Mapping](https://www.instagram.com/p/CrLLNzGLcoA/) by Nahuel Gerth.
-- [DeepPrivacy2 - A Toolbox for Realistic Image Anonymization](https://github.com/hukkelas/deep_privacy2) by Hukkelås, Håkon and Lindseth, Frank.
 
 #### Music
-
-- [Eye Conductor](https://www.andreasrefsgaard.dk/projects/eye-conductor/) by Andreas Refsgaard.
-- [Sampler](https://experiments.withgoogle.com/sampler) by Use All Five & Google Creative Lab.
 - [Melody Painter with HandPose](https://www.instagram.com/p/C4WozrtsZ4r/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/jIvzImJMb) ]
 
 #### Playful
