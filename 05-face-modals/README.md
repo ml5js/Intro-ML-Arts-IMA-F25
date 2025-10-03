@@ -36,7 +36,9 @@
 
 ### Code Examples
 
-- Class example: https://editor.p5js.org/yining/sketches/HHZ0bxKcA, https://editor.p5js.org/yining/sketches/FNjlzk9hw
+- Class example: https://editor.p5js.org/yining/sketches/HHZ0bxKcA
+- https://editor.p5js.org/yining/sketches/FNjlzk9hw
+- https://editor.p5js.org/yining/sketches/p0ZwhM4tu
 
 #### Examples
 
