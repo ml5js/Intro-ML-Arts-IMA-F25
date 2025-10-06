@@ -60,16 +60,12 @@
 ## See demos live:
 
 - [Sound Classifier Speechcommand](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SoundClassification_speechcommand)
-- [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
 - [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
 - [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
 - [p5 Speech Continuous Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Continuous-Recognition)
 - [p5 Speech Single Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Simple-Recignition)
 - [p5 Speech Speech Synthesis](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Speech-Synthesis)
-- [PitchDetection](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection), https://editor.p5js.org/ml5/sketches/PitchDetection
-- [PitchDetection Game](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Game), https://editor.p5js.org/ml5/sketches/PitchDetection_Game
-- [PitchDetection Piano](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Piano), https://editor.p5js.org/ml5/sketches/PitchDetection_Piano
-
+- PitchDetection: https://editor.p5js.org/ml5/sketches/PitchDetection
 ## Links
 
 - [p5 speech](https://idmnyu.github.io/p5.js-speech/)
@@ -86,6 +82,5 @@
 
 ## Assignment 6
 1. Watch Video [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
-2. Coding and building:
-  - Build an interactive browser experiment related to sound data, with an Arduino component(optional).
+2. Build an interactive browser experiment related to sound data, with an Arduino component(optional).
 3. Document your research, your response, and your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-6). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
