@@ -3,200 +3,89 @@
 ## Objectives
 - Learn to use sound classifiers in ml5.js
 - Understand sound classification models and their applications
-- Build interactive projects with real-time sound recognition
+- Build interactive projects with real-time sound classification
 
-## Resources
-- [ml5.js SoundClassifier Reference](https://docs.ml5js.org/#/reference/sound-classifier)
-- [p5.js Sound Library](https://p5js.org/reference/#/libraries/p5.sound)
-- [The Coding Train - Sound Classification](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/sound-classification)
+## Workshop:
 
-## Sound Classification with ml5.js
+### Sound Classifier with Arduino and Teachable Machine
 
-Sound classification is the process of analyzing audio input and categorizing it into predefined classes. ml5.js provides pre-trained models that can recognize various sounds in real-time.
+- [Demo video](https://youtu.be/bmyncxth3_Y), [Demo made by Cara Neels](https://vimeo.com/363431151)
+- <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/main/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
-### Available Models
+#### Steps
 
-#### 1. SpeechCommands18w
-A model trained to recognize 18 different spoken words:
-- "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"
-- "up", "down", "left", "right"
-- "go", "stop", "yes", "no"
+1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
+2. [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
+3. Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
+4. Build the arduino circuit like the image above
+5. Upload Arduino code to the Arduino board, You can find [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier/teachableMachineArduino-sound/arduino_code)
+6. Open p5 serial app(don't open any port in the p5 serial app, just keep the app open)
+7. Go back to p5 web editor, test if p5 sketch and arduino can communicate.
 
-#### 2. Custom Models
-You can also train and use your own sound classification models using Teachable Machine.
+### Sound Classifier with Arduino and Teachable Machine with Servo Motor
 
-## Basic Example
+- Upload the [Arduino Sketch](https://github.com/yining1023/Machine-Learning-for-Physical-Computing/tree/master/Examples/TeachableMachineArduino/SoundClassifier_with_Servo/SoundClassifier_Servo) to the Arduino board
+- Running [p5 sketch](https://editor.p5js.org/yining/sketches/q8JEPDwK7), remember to update the `portName` and `mySoundModelURL`, and update class names to your own classes.
+- [Video Demo](https://youtu.be/RnStPxTfEnU)
+- Circuit
+  - Connect D2,3,4 to 3 LEDs
+  - Connect servo signal pin to D9. [More about](https://github.com/yining1023/Machine-Learning-for-Physical-Computing/tree/master/Examples/ServoMotor) how to use servo motor with arduino.
+    <img src="https://raw.githubusercontent.com/yining1023/Machine-Learning-for-Physical-Computing/master/images/sound_servo.jpg" alt="sound_servo" width="400px">
 
-### HTML Setup
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sound Classification</title>
-  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.2/lib/p5.min.js"></script>
-  <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
-</head>
-<body>
-  <script src="sketch.js"></script>
-</body>
-</html>
-```
+### Image Classifier with Arduino:
 
-### JavaScript (sketch.js)
-```javascript
-let classifier;
-let label = 'Listening...';
-let confidence = 0;
+- Running this [p5 sketch](https://editor.p5js.org/yining/sketches/Ob8Zkf_FZ) on p5 web editor, remember to update the `portName` and `myImageModelURL`, and update class names to your own classes.
+- [Video Demo](https://youtu.be/ZGafimlnLw8)
 
-function preload() {
-  // Load the SpeechCommands18w model
-  classifier = ml5.soundClassifier('SpeechCommands18w');
-}
+### Pose Classifier with Arduino:
 
-function setup() {
-  createCanvas(640, 480);
-  // Start classifying
-  classifier.classify(gotResult);
-}
+- Running this [p5 sketch](https://editor.p5js.org/p52/sketches/GIYEO8zY0) on p5 web editor, remember to update the `portName` and `poseModelUrl`, and update class names to your own classes.
+- [Video Demo](https://youtu.be/2E0LpbdPjMs)
 
-function draw() {
-  background(0);
-  
-  // Display the current label
-  fill(255);
-  textSize(32);
-  textAlign(CENTER, CENTER);
-  text(label, width / 2, height / 2);
-  
-  // Display confidence
-  textSize(16);
-  text('Confidence: ' + nf(confidence, 0, 2), width / 2, height / 2 + 50);
-}
+## Help
 
-function gotResult(error, results) {
-  if (error) {
-    console.error(error);
-    return;
-  }
-  
-  // The results are in an array ordered by confidence
-  label = results[0].label;
-  confidence = results[0].confidence;
-}
-```
+- [How to use p5 serial](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- Tips for p5 serial
+  - Download the app [here](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.1)
+  - Get the port name right
 
-## Key Concepts
+## Trouble shooting:
 
-### 1. Model Loading
-```javascript
-// Load a pre-trained model
-classifier = ml5.soundClassifier('SpeechCommands18w');
+- The models works in p5 web editor, but my LEDs are not lighted up
+  - Light up LEDs in the arduino code directly to test if there is anything wrong with the LEDs.
+  - Make sure p5 serial is working: There shouldn't be any error in the console. The p5 serial app should be open, but do NOT connect to the port inside of the p5 serial app, otherwise p5 serial app will be using the port, then p5 web editor cannot use the port.
+  - You can find your portname in the p5 serial app. But there is no need to connect to the port in the p5 serial app.
+  - When you are re-uploading Arduino sketch, you need to stop p5 sketch in the editor and close the p5 serial app.
 
-// Or load a custom model from Teachable Machine
-classifier = ml5.soundClassifier('path/to/model/model.json');
-```
+## See demos live:
 
-### 2. Classification Options
-```javascript
-const options = {
-  probabilityThreshold: 0.8  // Only return results above 80% confidence
-};
-classifier = ml5.soundClassifier('SpeechCommands18w', options);
-```
+- [Sound Classifier Speechcommand](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/SoundClassification_speechcommand)
+- [Image Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineImage/)
+- [Sound Classifer with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachineSound/)
+- [Pose Classifier with Teachable Machine](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/teachableMachinePoses/)
+- [p5 Speech Continuous Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Continuous-Recognition)
+- [p5 Speech Single Recognition](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Simple-Recignition)
+- [p5 Speech Speech Synthesis](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/p5Speech/Speech-Synthesis)
+- [PitchDetection](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection), https://editor.p5js.org/ml5/sketches/PitchDetection
+- [PitchDetection Game](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Game), https://editor.p5js.org/ml5/sketches/PitchDetection_Game
+- [PitchDetection Piano](https://yining1023.github.io/machine-learning-for-the-web/week4-soundClassifier/PitchDetection/PitchDetection_Piano), https://editor.p5js.org/ml5/sketches/PitchDetection_Piano
 
-### 3. Getting Results
-```javascript
-// Continuous classification
-classifier.classify(gotResult);
+## Links
 
-// Single classification
-classifier.classify((error, results) => {
-  // Handle results
-});
-```
+- [p5 speech](https://idmnyu.github.io/p5.js-speech/)
+- [tfjs speech command model](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
+- [ml5js sound classifier](https://learn.ml5js.org/#/reference/sound-classifier)
+- [Arduino Machine learning](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino/), [Color2Emoji](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
 
-## Project Ideas
+## Inspirations about Teachable Machine:
 
-### Beginner
-1. **Voice-Controlled Game**: Create a simple game controlled by voice commands (up, down, left, right)
-2. **Number Recognizer**: Display the spoken number visually on canvas
-3. **Sound Visualizer**: Create different visual effects based on recognized sounds
+- [Airi Flies](https://vimeo.com/501341709)
+- [Eyeo 2019 - Coding Train Race](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
+- [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
+- [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/) 
 
-### Intermediate
-4. **Voice-Controlled Drawing**: Draw different shapes or colors based on voice commands
-5. **Musical Instrument Classifier**: Identify different instrument sounds
-6. **Ambient Sound Monitor**: Classify environmental sounds (traffic, nature, etc.)
-
-### Advanced
-7. **Multi-Modal Interface**: Combine sound, gesture, and face detection
-8. **Sound-Based Accessibility Tool**: Create interfaces for users with mobility limitations
-9. **Custom Sound Trainer**: Build an interface to train custom sound models
-
-## Using Teachable Machine
-
-You can train custom sound models using [Teachable Machine](https://teachablemachine.withgoogle.com/):
-
-1. Go to Teachable Machine and select "Audio Project"
-2. Record samples for each class you want to recognize
-3. Train your model
-4. Export as "TensorFlow.js"
-5. Upload the model files and use in ml5.js:
-
-```javascript
-const modelURL = 'https://your-domain.com/model/';
-classifier = ml5.soundClassifier(modelURL + 'model.json', modelReady);
-```
-
-## Tips & Best Practices
-
-1. **Microphone Permissions**: Always request microphone access and handle permission errors gracefully
-2. **Background Noise**: Consider the environment - background noise can affect accuracy
-3. **Confidence Threshold**: Set an appropriate confidence threshold to filter out uncertain predictions
-4. **User Feedback**: Provide clear visual/audio feedback when sounds are recognized
-5. **Testing**: Test your application in different acoustic environments
-
-## Common Issues
-
-### Microphone Not Working
-- Check browser permissions for microphone access
-- Ensure you're running on HTTPS or localhost
-- Test with the browser's built-in audio recorder first
-
-### Low Accuracy
-- Increase the `probabilityThreshold` to only show high-confidence results
-- Train a custom model with more examples
-- Reduce background noise
-- Speak/make sounds more clearly and consistently
-
-## Exercises
-
-1. **Basic Classification**: Display all 18 commands from SpeechCommands18w
-2. **Voice Game**: Create a simple game controlled entirely by voice
-3. **Sound Visualizer**: Map different sounds to different visual effects
-4. **Custom Classifier**: Train your own model to recognize 3-5 custom sounds
-5. **Multi-Class**: Combine sound classification with other ml5 models (pose, face, etc.)
-
-## Assignment Ideas
-
-- Create an interactive art piece that responds to voice or sound
-- Build an accessibility tool using voice commands
-- Design a sound-based game or music application
-- Train a custom model to classify sounds relevant to your interests
-
-## Additional Resources
-
-- [Web Audio API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [ml5.js Examples](https://examples.ml5js.org/)
-- [The Coding Train Tutorials](https://thecodingtrain.com/)
-
-## Next Steps
-
-After completing this module, you'll be ready to:
-- Combine sound classification with other ML models
-- Create multi-modal interactive experiences
-- Build accessible interfaces using voice control
-- Train and deploy custom sound classification models
-
+## Assignment 6
+1. Watch Video [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
+2. Coding and building:
+  - Build an interactive browser experiment related to sound data, with an Arduino component(optional).
+3. Document your research, your response, and your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-6). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
