@@ -116,10 +116,15 @@
 - [Doodle Classification with DoodleNet](https://editor.p5js.org/jackbdu/sketches/ts3fuRZGW) (model trained by [@yining1023](https://github.com/yining1023))
 
 ## ml5.js project
-
-### Due Thursday, Oct 10
-
 1. Reading:
    - [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
    - [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
-2. Train your own neural network
+2. Create your own p5+ml5 sketch that trains a Neural Network with real-time interactive data. This can be a prototype of the aforementioned idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
+Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
+What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
+What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values? [Code examples](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/tree/main/07-neural-networks#code-examples)
+- Can you add more keypoints from the hand to the data collection? (All the keypoints?)
+- Can you add more classification categories?
+- Can you create an interface for training and showing the results of model's prediction?
+- Can you turn this into a regression model?
+3. Add a link to the post and your p5.js sketch on the [Assignment 7](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-7) Wiki page. 
