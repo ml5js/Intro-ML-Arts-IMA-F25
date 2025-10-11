@@ -83,4 +83,4 @@
 ## Assignment 6
 1. Watch Video [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
 2. Build an interactive browser experiment related to sound data, with an Arduino component(optional).
-3. Document your research, your response, and your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-6). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+3. Document your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-6). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
