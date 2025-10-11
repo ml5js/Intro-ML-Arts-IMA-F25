@@ -35,7 +35,7 @@
 - [NeuralNetwork - Color Classifier](https://editor.p5js.org/ml5/sketches/eGHBdmCLe)
 - [NeuralNetwork - Mouse Gesture](https://editor.p5js.org/ml5/sketches/FdXAgrA3N)
 - [NeuralNetwork - Train and Save](https://editor.p5js.org/ml5/sketches/rR51vvi-u)
-- [NeuralNetwork - Load Model](https://editor.p5js.org/ml5/sketches/U-aljtx7x)
+- [NeuralNetwork - Load Model](https://editor.p5js.org/yining/sketches/XHGgqSLNu)
 
 ### Supplemental Materials
 
