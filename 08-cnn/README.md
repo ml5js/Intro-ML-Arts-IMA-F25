@@ -76,24 +76,6 @@
 - [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainDoodleClassifier)
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainMNIST)
 
-- In class: https://editor.p5js.org/yining/sketches/LYg2Dw0mB
-
 ## Assignment
 
-### Reading
-
-- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
-- [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
-
-
-- In class, doodlenet: https://editor.p5js.org/yining/sketches/mK5iYrzns
-
-### Data Research
-
-In preparation for next Thursday's class, find a dataset that interests you! Here are some places to get started:
-
-- Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/), [awesome datasets](https://github.com/awesomedata/awesome-public-datasets) or [this list of datasets](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Datasets).
-- Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
-
-[Post a link to the dataset that interests you on the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-5). (I would also suggest taking a peek at the [instructions for assignment 5b](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/blob/main/09_data/README.md#assignment) in next week's material).
 
