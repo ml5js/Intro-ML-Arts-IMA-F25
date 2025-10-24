@@ -28,15 +28,15 @@
 
 ### 7: [Training a Neural Network 2](07-neural-networks) (10/17)
 
-### 8: [Introduction to Transformers.js](08-transformers-js) (10/24)
+### 8: [Convolutional Neural Networks (CNN)](08-cnn) (10/24)
 
-### 9: [Language Models](09-llms) (10/31)
+### 9: [Introduction to Transformers.js](09-transformers-js) (10/31)
 
-### 10: [Image Generation Models](10-image-models) (11/7)
+### 10: [Language Models](10-llms) (11/7)
 
-### 11: [Final Project Proposals](final) + [Fine-Tuning](11-fine-tuning) (11/14)
+### 11: [Image Generation Models](11-image-models) (11/14)
 
-### 12: [Final Project Proposals](final) + [Fine-Tuning](11-fine-tuning) (11/21)
+### 12: [Final Project Proposals](final) + [Fine-Tuning](12-fine-tuning) (11/21)
 
 ### 13: [Final Project Play Testing](final) (12/05)
 
