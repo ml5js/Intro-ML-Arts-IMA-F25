@@ -1,6 +1,7 @@
 # Language Models
 
-- [LLM / Text slides](https://docs.google.com/presentation/d/1uGS4w_UumzQAoq03S-sc9Nn7_hBaRNbQJf1G2SNXooU/edit?usp=sharing)
+- [Text slides](https://docs.google.com/presentation/d/1ZvNFZUnm4TcBLMPxKBEtPUD71DEBQz5ObXUVsA-gamA/edit?usp=sharing)
+- [LLM slides](https://docs.google.com/presentation/d/1uGS4w_UumzQAoq03S-sc9Nn7_hBaRNbQJf1G2SNXooU/edit?usp=sharing)
 
 ## Transformers and Large Language Models
 
