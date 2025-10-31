@@ -35,6 +35,7 @@
 - [Word2Vec suggesting alternative words](https://editor.p5js.org/yining/sketches/AqFZmpoAX)
 - [Word2vec Similar Words Floating in Space](https://editor.p5js.org/yining/sketches/_Ki2jFoJB)
 - [Sentiment](https://editor.p5js.org/ml5/sketches/hopIvsCGL)
+- [Gemini API + p5.js drawing](https://www.linkedin.com/posts/alexanderchen_one-line-one-word-a-simple-p5js-sketch-activity-7226046063277735936-YsFy/), [code](https://editor.p5js.org/alexanderchen/sketches/UIPy0LXjm)
 
 
 ## Assignment
