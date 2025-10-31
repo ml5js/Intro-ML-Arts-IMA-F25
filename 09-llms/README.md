@@ -38,7 +38,7 @@
 - [Sentiment](https://editor.p5js.org/ml5/sketches/hopIvsCGL)
 - [OpenAI API + p5.js](https://editor.p5js.org/yining/sketches/cnlmIOoL9)
 - [Gemini API + p5.js drawing](https://x.com/alexanderchen/status/1819939988676440241), [code](https://editor.p5js.org/golan/sketches/7k4imWAs1)
-
+- Class: [Gemini api p5js](https://editor.p5js.org/yining/sketches/cyjAvH2uO)
 ### How to obtain a Google AI Studio developer test API key:
 1. Go to the Google AI Studio website: https://ai.google.dev/aistudio
 2. Sign in with your Google account
@@ -50,8 +50,6 @@
  * Note: Make sure to keep your API key secure and avoid sharing it publicly.
 
 Example gemini curl [link](https://ai.google.dev/api?_gl=1*13fjlsq*_up*MQ..&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlBzobG9FGFMvlC68nlRVRo5l-QNBKwumub-Kfv_ibg9ekitbyyxTl4aAmJmEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAACn9t66myntjHn7cE8bAgpYlsRE0g)
-
-[Gemini api p5js](https://editor.p5js.org/yining/sketches/cyjAvH2uO)
 
 ## Assignment
 
