@@ -48,7 +48,9 @@
 6. Enable the Gemini API for your project.
 7. Copy the generated API key and paste it into the "API KEY" input field in the web application.
  * Note: Make sure to keep your API key secure and avoid sharing it publicly.
+
 Example gemini curl [link](https://ai.google.dev/api?_gl=1*13fjlsq*_up*MQ..&gclid=Cj0KCQjwvJHIBhCgARIsAEQnWlBzobG9FGFMvlC68nlRVRo5l-QNBKwumub-Kfv_ibg9ekitbyyxTl4aAmJmEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAACn9t66myntjHn7cE8bAgpYlsRE0g)
+
 [Gemini api p5js](https://editor.p5js.org/yining/sketches/cyjAvH2uO)
 
 ## Assignment
