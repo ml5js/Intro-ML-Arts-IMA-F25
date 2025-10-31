@@ -39,5 +39,7 @@
 
 ## Assignment
 
-- Use one of the LLM APIs to build a chat / agent experience with p5.js; Or add more features to the Word2Vec/Sentiment sketch.
+- Use one of the LLM APIs to build a chat / agent experience with p5.js
+- Or try chat with [Gemini](https://gemini.google.com/app), [Google AI studio](https://aistudio.google.com/prompts/new_chat), [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new) and document your findings. 
+- Or add more features to the Word2Vec/Sentiment sketch.
 - Document your experminents in a blog post and add a link to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-6). Remember to include visual documentation (screenshots, GIFs, etc)
