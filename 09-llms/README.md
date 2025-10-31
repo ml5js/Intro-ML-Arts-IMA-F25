@@ -37,7 +37,7 @@
 - [Word2vec Similar Words Floating in Space](https://editor.p5js.org/yining/sketches/_Ki2jFoJB)
 - [Sentiment](https://editor.p5js.org/ml5/sketches/hopIvsCGL)
 - [OpenAI API + p5.js](https://editor.p5js.org/yining/sketches/cnlmIOoL9)
-- [Gemini API + p5.js drawing](https://x.com/alexanderchen/status/1819939988676440241), [code](https://editor.p5js.org/golan/sketches/7k4imWAs1)e
+- [Gemini API + p5.js drawing](https://x.com/alexanderchen/status/1819939988676440241), [code](https://editor.p5js.org/golan/sketches/7k4imWAs1)
 
 
 ## Assignment
