@@ -39,6 +39,15 @@
 - [OpenAI API + p5.js](https://editor.p5js.org/yining/sketches/cnlmIOoL9)
 - [Gemini API + p5.js drawing](https://x.com/alexanderchen/status/1819939988676440241), [code](https://editor.p5js.org/golan/sketches/7k4imWAs1)
 
+### How to obtain a Google AI Studio developer test API key:
+1. Go to the Google AI Studio website: https://ai.google.dev/aistudio
+2. Sign in with your Google account
+3. Navigate to the API Keys section (the blue "Get API Key" button on the top left)
+4. Click on the "Create API Key" button
+5. Follow the prompts to create a new project or select an existing one.
+6. Enable the Gemini API for your project.
+7. Copy the generated API key and paste it into the "API KEY" input field in the web application.
+ * Note: Make sure to keep your API key secure and avoid sharing it publicly.
 
 ## Assignment
 
