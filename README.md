@@ -30,13 +30,13 @@
 
 ### 8: [Convolutional Neural Networks (CNN)](08-cnn) (10/24)
 
-### 9: [Introduction to Transformers.js](09-transformers-js) (10/31)
+### 9: [Text and Language Models](09-llms) (10/31)
 
-### 10: [Language Models](10-llms) (11/7)
+### 10: [Image Generation Models](11-image-models) (11/7)
 
-### 11: [Image Generation Models](11-image-models) (11/14)
+### 11: [Final Project Proposals](final) + [Fine-Tuning](12-fine-tuning) (11/14)
 
-### 12: [Final Project Proposals](final) + [Fine-Tuning](12-fine-tuning) (11/21)
+### 11: [Final Project Work session](final) (11/21)
 
 ### 13: [Final Project Play Testing](final) (12/05)
 
