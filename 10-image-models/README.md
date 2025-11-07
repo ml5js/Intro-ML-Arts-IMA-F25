@@ -55,18 +55,12 @@
 - 🔧 [ComfyUI GitHub Repository](https://github.com/comfyanonymous/ComfyUI) - A modular and node-based UI for Stable Diffusion that allows users to experiment with model pipelines.
 
 ## Code Examples and Implementations
-
-### Diffusion Models on Replicate
-
-_Examples are shared via email due to usage restrictions at ITP._
-
-### Generating images with sd-webui
-
-- 💻 [in class sd-webui example with ITP GPU machine](sd-webui) _(remember, this only works outside the p5.js web editor and on the NYU network or VPN!)_
-
-### Transformers.js
-
-- 💻 [Janus-1.3B-onnx](https://editor.p5js.org/ima_ml/sketches/buN5nGipW) _(this is using an unreleased alpha version of transformers.js, proceed with caution!)_
+- Image model with Gemini API:
+  - Text to Image, [p5js sketch](https://editor.p5js.org/yining/sketches/hzZL2LC3W)
+  - Image to Image (image editing), [p5js sketch](https://editor.p5js.org/yining/sketches/hzZL2LC3W)
+- Runway app: https://runwayml.com/
+  - Image generation
+  - Video generation
 
 ## Assignment
 
