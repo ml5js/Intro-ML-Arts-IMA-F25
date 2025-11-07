@@ -1,5 +1,7 @@
 # Generative Images
 
+- [Slides](https://docs.google.com/presentation/d/1xTqKGvtxoeei1b1-eWf2AGwHq-VhSb5IoZvoxfI8ka0/edit?usp=sharing)
+
 ## Autoencoders
 
 - 🎥 [What is an Autoencoder? | Two Minute Papers #86](https://youtu.be/Rdpbnd0pCiI)
