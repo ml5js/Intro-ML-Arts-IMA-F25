@@ -4,6 +4,8 @@
 
 ## Session A: What is CNN?
 
+CNN Visualization: https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
+
 ### Objectives:
 
 - Understand when and why you might train your own model from scratch versus use a pre-trained model or transfer learning.
