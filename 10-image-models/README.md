@@ -58,11 +58,15 @@
 - Image model with Gemini API:
   - Text to Image, [p5js sketch](https://editor.p5js.org/yining/sketches/hzZL2LC3W)
   - Image to Image (image editing), [p5js sketch](https://editor.p5js.org/yining/sketches/p8o-iw1Gm)
-  - [API documentation](https://ai.google.dev/gemini-api/docs/image-generation)
+  - [Gemini Image generation API documentation](https://ai.google.dev/gemini-api/docs/image-generation)
+  - [Gemini Veo3 Video generation API documentation](https://ai.google.dev/gemini-api/docs/video?example=dialogue#rest_2)
 - Runway app: https://runwayml.com/
   - Image generation
   - Video generation
-- Class sketch: gemini image https://editor.p5js.org/yining/sketches/aHagF-bVN, gemini image editing: https://editor.p5js.org/yining/sketches/lz2oKyg8R
+- Class sketch:
+  - Gemini text to image https://editor.p5js.org/yining/sketches/aHagF-bVN
+  - Gemini image to image editing: https://editor.p5js.org/yining/sketches/lz2oKyg8R
+  - Gemini Veo3 text to video: https://editor.p5js.org/yining/sketches/gD3HVpQoS
 
 ## Assignment
 
