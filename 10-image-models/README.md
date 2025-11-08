@@ -62,7 +62,7 @@
 - Runway app: https://runwayml.com/
   - Image generation
   - Video generation
-- Class sketch: gemini image https://editor.p5js.org/yining/sketches/aHagF-bVN
+- Class sketch: gemini image https://editor.p5js.org/yining/sketches/aHagF-bVN, gemini image editing: https://editor.p5js.org/yining/sketches/lz2oKyg8R
 
 ## Assignment
 
