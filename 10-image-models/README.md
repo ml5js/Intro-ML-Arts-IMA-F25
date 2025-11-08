@@ -70,4 +70,4 @@
 
 ## Assignment
 
-- Create a final project proposal. See [final project guidelines](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/tree/main/final). Check [your assigned proposal date and add your proposal to the course wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Proposals).
+- Create a final project proposal. See [final project guidelines](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/tree/main/final). Add your proposal date to [the course wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Proposals).
