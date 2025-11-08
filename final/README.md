@@ -1,6 +1,6 @@
 # Final Project
 
-Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be **11/14**, and Final project presentations will be **12/12**.
+Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be **11/14**, and Final project presentations will be **12/05**.
 
 The final project should be a creative project that builds off of or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular programming language or machine learning model.
 
@@ -24,7 +24,7 @@ It's up to you to determine how to best present your idea. Be prepared to presen
 - Challenges: What is your biggest technical and/or conceptual challenge you anticipate?
 - Code sketches: This is not required but if you have sketches in progress share them as additional links for feedback.
 
-Document the above elements in a blog post and selectively edit the material to present with slides. [Link to your post and slides on the proposal wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Proposals). Plan to present your idea in ~-3-4 minutes leaving about 5 minutes for discussion.
+Document the above elements in a blog post and selectively edit the material to present with slides. [Link to your post and slides on the proposal wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Proposals). Plan to present your idea in ~5 minutes leaving about 5 minutes for discussion.
 
 ### Guidelines for Giving Proposal Feedback
 
@@ -38,9 +38,9 @@ Class time will be allocated for you to make progress on your project. Make a go
 
 ## Final Presentation and Documentation Guidelines
 
-Final project presentations are **Friday, December 12th**, [please check the wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Presentations). In class presentations will be approximately 10 minutes each.
+Final project presentations are **Friday, December 5th**, [please check the wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Presentations). In class presentations will be approximately 10 minutes each.
 
-Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Presentations). This is due **Tuesday, December 16**.
+Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Final-Presentations). This is due **Tuesday, December 9**.
 
 Final Project presentations are demonstrations and do not require a slide deck, however, you might find slides useful to help you plan and structure your demo and discussion. Your documentation should come in written form (equivalent of 1-3 pages) as a blog post. It's up to you to figure out how to best document your project, at a minimum, please include the following:
 
