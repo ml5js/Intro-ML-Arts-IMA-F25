@@ -34,9 +34,9 @@
 
 ### 10: [Image Generation Models](11-image-models) (11/7)
 
-### 11: [Final Project Proposals](final) + [Fine-Tuning](12-fine-tuning) (11/14)
+### 11: [Final Project Proposals](final) (11/14)
 
-### 12: [Final Project Work session](final) (11/21)
+### 12: [Final Project Work session](final) + [Fine-Tuning](12-fine-tuning) (11/21)
 
 ### 13: [Final Project Play Testing](final) (11/26 Wednesday)
 
