@@ -32,11 +32,11 @@
 
 ### 9: [Text and Language Models](09-llms) (10/31)
 
-### 10: [Image Generation Models](11-image-models) (11/7)
+### 10: [Image Generation Models](10-image-models) (11/7)
 
 ### 11: [Final Project Proposals](final) (11/14)
 
-### 12: [Final Project Work session](final) + Runway workflow + Gemini Nano banana 3 Workshop (11/21)
+### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch]() Workshop (11/21)
 
 ### 13: [Final Project Play Testing](final) (11/26 Wednesday)
 
