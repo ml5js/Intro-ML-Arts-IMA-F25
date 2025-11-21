@@ -36,7 +36,7 @@
 
 ### 11: [Final Project Proposals](final) (11/14)
 
-### 12: [Final Project Work session](final) + Runway workflow workshop (11/21)
+### 12: [Final Project Work session](final) + Runway workflow + Gemini Nano banana 3 Workshop (11/21)
 
 ### 13: [Final Project Play Testing](final) (11/26 Wednesday)
 
