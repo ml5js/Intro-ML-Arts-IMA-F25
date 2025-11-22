@@ -60,6 +60,8 @@
   - Image to Image (image editing), [p5js sketch](https://editor.p5js.org/yining/sketches/p8o-iw1Gm)
   - [Gemini Image generation API documentation](https://ai.google.dev/gemini-api/docs/image-generation)
   - [Gemini Veo3 Video generation API documentation](https://ai.google.dev/gemini-api/docs/video?example=dialogue#rest_2)
+  - [Gemini 3 Image Pro nano banana 2 text to image](https://editor.p5js.org/yining/sketches/lkl3htOIP)
+  - [Gemini 3 Image Pro nano banana 2 image editing](https://editor.p5js.org/yining/sketches/bhungIqJd)
 - Runway app: https://runwayml.com/
   - Image generation
   - Video generation
